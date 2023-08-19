@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hey there, I'm The Anh, and I'm passionate about gaming, anime, and programming. I love diving into virtual worlds and experiencing new stories, and I also enjoy the creative challenge of programming. Some of my favorite games include The Legend of Zelda: Breath of the Wild and the Persona series, and I'm a big fan of anime like Naruto and Your Lie in April. When I'm not gaming or watching anime, you can usually find me coding up a new project or exploring new technologies.
+Hey there, I'm The Anh
 <!--
 **Waohu/Waohu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
